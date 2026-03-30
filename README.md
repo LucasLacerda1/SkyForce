@@ -1,6 +1,6 @@
 # 🚀 SkyForce - Arcade Shooter (Projeto Acadêmico)
 
-Este é um projeto desenvolvido como parte do curso de **Sistemas de Informação** na faculdade **Universade de Vila Velha**. O objetivo é aplicar conceitos de Programação Orientada a Objetos (POO), gerenciamento de estados de jogo e interface gráfica multi-plataforma.
+Este é um projeto desenvolvido como parte do curso de **Ciência da computação** na faculdade **Universade de Vila Velha**. O objetivo é aplicar conceitos de Programação Orientada a Objetos (POO), gerenciamento de estados de jogo e interface gráfica multi-plataforma.
 
 SkyForce é um shooter espacial (Shoot 'em up) feito em **C#** com **Avalonia UI**, focado em jogabilidade clássica, precisão técnica e combate estratégico contra chefes.
 
