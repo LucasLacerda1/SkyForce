@@ -1,0 +1,14 @@
+# Pastas de compilação e temporários do .NET
+[Bb]in/
+[Oo]bj/
+
+# Configurações do Rider/IntelliJ
+.idea/
+
+# Ficheiros do utilizador e caches
+*.user
+*.suo
+.vs/
+
+# Outros
+.DS_Store

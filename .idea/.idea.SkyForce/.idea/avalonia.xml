@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SkyForce/App.axaml" value="SkyForce/SkyForce.csproj" />
+        <entry key="SkyForce/Views/MainWindow.axaml" value="SkyForce/SkyForce.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
